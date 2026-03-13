@@ -5,4 +5,5 @@
   <Project Path="4-area circulo/4-area circulo.csproj" Id="fa202767-b33e-4de8-b3bf-5366d1819b26" />
   <Project Path="5-area rectangulo/5-area rectangulo.csproj" Id="b5013959-2df5-4432-b75e-1a10cc1bbbd0" />
   <Project Path="6-Celsius a Farenheit/6-Celsius a Farenheit.csproj" Id="bdb93c09-934e-4628-b092-a28195433968" />
+  <Project Path="7-Descuento/7-Descuento.csproj" Id="f35bc2bd-45f7-40fb-827f-95b4b7f06255" />
 </Solution>
