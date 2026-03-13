@@ -4,4 +4,5 @@
   <Project Path="3-devolver doble/3-devolver doble.csproj" Id="59b6cb1c-765f-44f6-84a0-c4bddbd4181d" />
   <Project Path="4-area circulo/4-area circulo.csproj" Id="fa202767-b33e-4de8-b3bf-5366d1819b26" />
   <Project Path="5-area rectangulo/5-area rectangulo.csproj" Id="b5013959-2df5-4432-b75e-1a10cc1bbbd0" />
+  <Project Path="6-Celsius a Farenheit/6-Celsius a Farenheit.csproj" Id="bdb93c09-934e-4628-b092-a28195433968" />
 </Solution>
