@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="1-funcion_suma/1-funcion_suma.csproj" />
   <Project Path="10-cubo/10-cubo.csproj" Id="7dbff6ea-42a4-4e26-a3fb-8d40e4c424f7" />
+  <Project Path="11-kg a lb/11-kg a lb.csproj" Id="45534b09-e90d-401a-bcf6-2b54ea46f38c" />
   <Project Path="2- Cuadrado de un numero/2- Cuadrado de un numero.csproj" Id="761d56dc-5a34-46c0-9e27-33e839b702d2" />
   <Project Path="3-devolver doble/3-devolver doble.csproj" Id="59b6cb1c-765f-44f6-84a0-c4bddbd4181d" />
   <Project Path="4-area circulo/4-area circulo.csproj" Id="fa202767-b33e-4de8-b3bf-5366d1819b26" />
